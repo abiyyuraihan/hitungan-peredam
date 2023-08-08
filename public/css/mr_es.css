@@ -1,0 +1,107 @@
+#akustik-tab:not(.active) {
+    background-color: #855d27;
+    color: rgb(34, 6, 6);
+    font-weight: bold;
+}
+
+#akustik-tab.active {
+    background-color: #df9227;
+    color: #064663;
+    font-weight: bold;
+}
+
+#gypsum-tab:not(.active) {
+    background-color: #855d27;
+    color: rgb(34, 6, 6);
+    font-weight: bold;
+}
+
+#gypsum-tab.active {
+    background-color: #df9227;
+    color: #064663;
+    font-weight: bold;
+}
+
+#standard-gypsum-tab:not(.active) {
+    background-color: #1f3946;
+    color: #171717;
+    font-weight: bold;
+}
+
+#standard-gypsum-tab.active {
+    background-color: #164d66;
+    color: #cecccc;
+    font-weight: bold;
+}
+
+#medium-gypsum-tab:not(.active) {
+    background-color: #1f3946;
+    color: #171717;
+    font-weight: bold;
+}
+
+#medium-gypsum-tab.active {
+    background-color: #164d66;
+    color: #cecccc;
+    font-weight: bold;
+}
+
+#high-gypsum-tab:not(.active) {
+    background-color: #1f3946;
+    color: #171717;
+    font-weight: bold;
+}
+
+#high-gypsum-tab.active {
+    background-color: #164d66;
+    color: #cecccc;
+    font-weight: bold;
+}
+
+#standard-akustik-tab:not(.active) {
+    background-color: #1f3946;
+    color: #171717;
+    font-weight: bold;
+}
+
+#standard-akustik-tab.active {
+    background-color: #164d66;
+    color: #cecccc;
+    font-weight: bold;
+}
+
+#medium-akustik-tab:not(.active) {
+    background-color: #1f3946;
+    color: #171717;
+    font-weight: bold;
+}
+
+#medium-akustik-tab.active {
+    background-color: #164d66;
+    color: #cecccc;
+    font-weight: bold;
+}
+
+#high-akustik-tab:not(.active) {
+    background-color: #1f3946;
+    color: #171717;
+    font-weight: bold;
+}
+
+#high-akustik-tab.active {
+    background-color: #164d66;
+    color: #cecccc;
+    font-weight: bold;
+}
+#deluxe-akustik-tab:not(.active) {
+    background-color: #1f3946;
+    color: #171717;
+    font-weight: bold;
+}
+
+#deluxe-akustik-tab.active {
+    background-color: #164d66;
+    color: #cecccc;
+    font-weight: bold;
+}
+
